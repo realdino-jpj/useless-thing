@@ -1,0 +1,15 @@
+var a,b;
+function setup(){
+createCanvas(800,400)
+a = createSprite(500,400,20,20);
+b = createSprite(300,200,50.50);
+
+}
+
+function draw(){
+background(0);
+
+drawSprites();
+
+}
+
